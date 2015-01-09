@@ -43,7 +43,7 @@
 					<h2>Осознанные сновидения</h2>
 					<p>Практика осознанных сновидений для начинающих</p>
 					<ul class="actions">
-						<li><a url="http://vk.com/event84440911"  target="_blank" class="button big special">Пойти <i class="fa fa-vk"></i>
+						<li><a href="http://vk.com/event84440911"  target="_blank" class="button big special">Пойти <i class="fa fa-vk"></i>
 </a></li>
 						<li><a href="#elements" class="button big alt">Узнать больше</a></li>
 					</ul>
@@ -87,29 +87,24 @@
 		<!-- Two -->
 			<section id="two" class="wrapper style2">
 				<header class="major">
-					<h2>Commodo accumsan aliquam</h2>
-					<p>Amet nisi nunc lorem accumsan</p>
+					<h2>Семинар ведет опытный практик и исследователь</h2>
 				</header>
 				<div class="container">
 					<div class="row">
 						<div class="6u">
 							<section class="special">
 								<a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
-								<h3>Mollis adipiscing nisl</h3>
-								<p>Eget mi ac magna cep lobortis faucibus accumsan enim lacinia adipiscing metus urna adipiscing cep commodo id. Ac quis arcu amet. Arcu nascetur lorem adipiscing non faucibus odio nullam arcu lobortis. Aliquet ante feugiat. Turpis aliquet ac posuere volutpat lorem arcu aliquam lorem.</p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul>
+								<h3>Александр</h3>
+								<p>Мне 20 лет. Я работаю в компании-лидере в своей отрасли. У меня очень красивая и умная девушка. Я лидер метал-группы.
+Я учусь в лучшем техническом вузе Москвы. У меня в друзьях ходят очень влиятельные люди — от сыновей начальников ФСБ до директоров по безопасности отдельно взятых компаний.
+А чем можешь похвастаться ты, мальчик? </p>
 							</section>
 						</div>
 						<div class="6u">
 							<section class="special">
 								<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-								<h3>Neque ornare adipiscing</h3>
-								<p>Eget mi ac magna cep lobortis faucibus accumsan enim lacinia adipiscing metus urna adipiscing cep commodo id. Ac quis arcu amet. Arcu nascetur lorem adipiscing non faucibus odio nullam arcu lobortis. Aliquet ante feugiat. Turpis aliquet ac posuere volutpat lorem arcu aliquam lorem.</p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul>
+								<h3>Практика ОСов</h3>
+								<p>Сидел еще в ТОМ треде. Регулярные осознания. 5 лет практики. Собственная группа последователей. Научная база в овер 9000 кулсторей.</p>
 							</section>
 						</div>
 					</div>
